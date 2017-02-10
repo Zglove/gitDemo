@@ -17,7 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+
     NSLog(@"员工该了经理改的地方");
+
+    NSLog(@"经理又改回来了");
+
 }
 
 
